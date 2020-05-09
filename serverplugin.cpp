@@ -12,6 +12,7 @@
 #include "engine/iserverplugin.h"
 #include "eiface.h"
 #include "Color.h"
+#undef MAX_VALUE //bspfile.h will declare this which breaks shit
 
 #include <winternl.h>
 #include <atlstr.h>
