@@ -1,0 +1,6 @@
+.vs
+*.user
+Debug
+Release
+addons/*.dll
+addons/*.zip
