@@ -1,6 +1,10 @@
 .vs
+.vscode
 *.user
 Debug
 Release
 addons/*.dll
 addons/*.zip
+*.so
+obj
+plugin_map.txt
